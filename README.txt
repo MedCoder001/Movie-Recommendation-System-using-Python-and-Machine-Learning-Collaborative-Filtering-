@@ -63,7 +63,3 @@ Movie IDs link to MovieLens, IMDb, and TMDb.
 ## Cross-Validation
 
 Prior versions included pre-computed cross-folds or scripts for cross-fold computation, but these are not included in the current dataset. Users interested in cross-validation for recommender systems can refer to [LensKit](http://lenskit.org) for tools, documentation, and code examples.
-
----
-
-This README provides a comprehensive guide to the MovieLens dataset, covering its contents, usage license, citation requirements, and file structures. It serves as a valuable resource for researchers and practitioners interested in movie recommendation systems and collaborative filtering techniques.
